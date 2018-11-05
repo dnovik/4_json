@@ -1,6 +1,6 @@
 # Prettify JSON
 
-[TODO. There will be project description]
+Данный код принимает на вход путь к файлу с данными в формате JSON и возвращает данные читабельном виде
 
 # Quickstart
 
